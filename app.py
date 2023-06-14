@@ -3,12 +3,15 @@ import pandas as pd
 import joblib
 from sklearn.preprocessing import StandardScaler
 from sklearn.impute import SimpleImputer
+import xgboost as xgb
 
 def main():
     st.title('Credit Risk Prediction')
 
     # Load the saved model
-    model = joblib.load('saved_model.pkl')
+    # model = joblib.load('saved_model.pkl')
+    model = xgb.XGBClassifier()
+    model.load_model('xgb_model.json')
 
     # Create sidebar with option to upload csv or manually input the fields
     st.sidebar.subheader('Data Input')
