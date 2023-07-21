@@ -8,6 +8,7 @@ You can access the deployed app for credit card default prediction [here](https:
 
 ## Notebook 
 [View notebook](credit_card_default.ipynb)
+
 The notebook contains the following sections:
 
 Libraries Used
