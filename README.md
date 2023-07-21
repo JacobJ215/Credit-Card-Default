@@ -12,14 +12,15 @@ You can access the deployed app for credit card default prediction [here](https:
 The notebook contains the following sections:
 
 Libraries Used
-pandas
-numpy
-matplotlib.pyplot
-seaborn
-plotly
-xgboost
-lightgbm
-imblearn
+
+* pandas
+* numpy
+* matplotlib.pyplot
+* seaborn
+* plotly
+* xgboost
+* lightgbm
+* imblearn
 
 ### Load Data
 The dataset used for this project is stored in the file "cs-training.csv". The dataset contains information about borrowers and whether they have defaulted on their credit card payments. The dataset includes attributes such as the borrower's age, income, number of dependents, and other financial indicators.
