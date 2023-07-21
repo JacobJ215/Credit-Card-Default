@@ -6,7 +6,8 @@ This repository contains the code for predicting credit card defaults based on c
 
 You can access the deployed app for credit card default prediction [here](https://jacobj215-credit-card-default-app-3ruasg.streamlit.app/)
 
-## Notebook
+## Notebook 
+[View notebook](credit_card_default.ipynb)
 The notebook contains the following sections:
 
 Libraries Used
