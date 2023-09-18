@@ -4,6 +4,8 @@ This repository contains the code for predicting credit card defaults based on c
 
 ![](Images/StreamlitApp.png)
 
+[GitHub](https://github.com/JacobJ215/Credit-Card-Default)
+
 You can access the deployed app for credit card default prediction [here](https://jacobj215-credit-card-default-app-3ruasg.streamlit.app/)
 
 ## Notebook 
